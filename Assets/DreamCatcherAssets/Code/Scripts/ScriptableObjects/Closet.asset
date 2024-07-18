@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fe34c59c527a0346988bf98656e5b6e, type: 3}
+  m_Name: Closet
+  m_EditorClassIdentifier: 
+  objectsInteractionType: 2
+  startingPosition: {fileID: 0}
+  endingPosition: {fileID: 0}

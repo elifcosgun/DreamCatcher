@@ -1,0 +1,34 @@
+{
+    "name": "CustomInputs",
+    "maps": [
+        {
+            "name": "PlayerInput",
+            "id": "4236daa4-c063-4d3e-aa74-9839fba76f53",
+            "actions": [
+                {
+                    "name": "LeftMouseClick",
+                    "type": "Button",
+                    "id": "6f38e1bc-17d7-4be3-8001-5aee56fee363",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7e83ad14-ef73-40e3-aac2-7c4b3f215b6c",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftMouseClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
