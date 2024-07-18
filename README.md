@@ -52,8 +52,7 @@ Fakat yine de oyunumuzu planladığımızdan çok daha detaylı bir hale getirip
 
 - **Daily Scrum**: Daily scrum toplantılarının discord üzerinden ilerletilmesine karar verilmiştir. Sprint'in ikinci haftasından daily log girilmeye başlanmıştır ve sprint sonunda bu loglar paylaşılacaktır. Sprint'in ilk haftası, takımın durumunun belirli olmaması vb. nedenlerden dolayı tanışma toplantılarıyla geçmiştir. Ayrıca takım üyesi olan Elif ve Hellin arkadaşlarımızın final haftalarında olmalarından dolayı, toplantılara katılmış olup, daily girememişlerdir. 2. Sprint'ten itibaren ekip olarak daha yoğun çalıp, daily gerçekleştireceğiz.
 
-![image](https://github.com/erencelik95/DreamCatcher/assets/20769111/cf7e82e0-041b-4c07-88ee-b8d963e84a8e)
-
+![image](https://github.com/user-attachments/assets/253fddde-a4eb-4689-9106-bdf3f1b83263)
 
 - **Ürün Durumu**: Ekran Görüntüleri
 ![image](https://github.com/erencelik95/DreamCatcher/assets/20769111/c71f76a4-a17a-4b75-adfd-53740c49e079)
